@@ -1,4 +1,3 @@
-X = board[0]
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board)
